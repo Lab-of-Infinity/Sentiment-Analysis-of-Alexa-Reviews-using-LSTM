@@ -5,3 +5,9 @@
 
 ## What you can do with this Data ?
 **You can use this data to analyze Amazon’s Alexa product ; discover insights into consumer reviews and assist with machine learning models.You can also train your machine models for sentiment analysis and analyze customer reviews how many positive reviews ? and how many negative reviews ?**
+
+## Word Cloud of Positive Sentiment
+![image](https://user-images.githubusercontent.com/90597433/183084770-82f10354-d353-4f64-bacc-bee3c9b9e2e2.png)
+
+## Word Cloud of Negative Sentiment
+![image](https://user-images.githubusercontent.com/90597433/183085047-41d628d3-b9d0-4298-b8e6-9ddce864becf.png)
