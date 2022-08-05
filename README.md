@@ -35,7 +35,8 @@
 - loss = 'categorical_crossentropy
 - optimizer = 'adam'
 
-<img src="https://user-images.githubusercontent.com/90597433/183089761-3bc6863e-f062-41f7-a048-d53e707df1ba.png" width="450" height="275">
+  <img src="https://user-images.githubusercontent.com/90597433/183089761-3bc6863e-f062-41f7-a048-d53e707df1ba.png" width="450" height="275">
+
 - **Traning Accuracy : 98.30%**
 
 
