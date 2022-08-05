@@ -29,3 +29,13 @@
 ### Word Cloud of Negative Sentiment
 <img src="https://user-images.githubusercontent.com/90597433/183085047-41d628d3-b9d0-4298-b8e6-9ddce864becf.png" width="700" height="500">
 
+## Deep NLP Model Building
+- Batch Size = 32
+- Epochs = 40
+- loss = 'categorical_crossentropy
+- optimizer = 'adam'
+
+<img src="https://user-images.githubusercontent.com/90597433/183089761-3bc6863e-f062-41f7-a048-d53e707df1ba.png" width="450" height="275">
+- **Traning Accuracy : 98.30%**
+
+
